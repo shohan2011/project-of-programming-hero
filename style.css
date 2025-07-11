@@ -176,3 +176,181 @@ header{
 .users-section-p {
     display: block;
 }
+/* card/user feedback section styling */
+.card-big-img{
+    display: flex;
+}
+.icon-img-p-all {
+    display: flex;
+}
+.icon-img {
+    height: 80px;
+    width: 65px;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+.card-section-1{
+   
+    width: 400px;
+    height: 230px;
+    background-color: #FFFFFF;
+   border-radius: 7px;
+   border: 1px solid #F2EDED;
+}
+.user-feedback-section-card {
+   display: flex; 
+    width: auto;
+    height: auto;
+    justify-content: center;
+margin-top: 100px;
+gap: 20px;
+
+}
+.card-user-feedback-section {
+    margin-top: 250px;
+     
+}
+.start{
+    font-size: 42px;
+    font-weight: bold;
+
+}
+/* styling optional section */
+.optional-section{
+    height: 696px;
+    width: 1140px;
+    background-color: #FFFFFF;
+    border: 1px solid #F2EDED;
+justify-content: center;
+margin-left: 180px;
+margin-top: 137px;
+border-radius: 14px;
+
+}
+.optional-section-title{
+font-size: 50px;
+font-weight: bold;
+
+}
+.optional-section-2{
+    justify-content: center;
+    text-align: center;
+}
+
+.optional-section-btn {
+    justify-content: center;
+    width: 195px;
+    height: 45px;
+    background-color: #4E47FF;
+    border: 1px solid #FFFFFF;
+    font-size: 16px;
+    font-weight: 300;
+    border-radius: 5px;
+    color: white;
+    /* margin-left: 140px; */
+}
+.optional-section-img{
+    margin-top: 20px;
+    border-radius: 48px;
+}
+.optional-section-btn:hover{
+    background-color: #303030;
+    font-size: 18px;
+    font-weight: bold;
+    transition-duration: 0.5s;
+}
+/* styling the footer part */
+.input-section{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 632px;
+    background-color: #FFFFFF;
+    justify-content: center;
+    gap: 115px;
+    margin-top: 92px;
+}
+.input-section-title{
+    font-size: 97px;
+    font-weight: bold;
+}
+.input-section-2{
+    height: 490px;
+    width: 497px;
+}
+.input-section-input{
+width: 497px;
+height: 70px;
+border-radius: 10px;
+border: 1px solid #D6DDED;
+padding-top: 20px;
+padding-left: 32px;
+
+font-size: 20px;
+}
+.input-section-input-texarea{
+width: 497px;
+height: 135px;
+border-radius: 10px;
+border: 1px solid #D6DDED;
+padding-top: 20px;
+padding-left: 32px;
+
+font-size: 20px;
+}
+.input-section-btn{
+    width: 497px;
+    height: 62px;
+    border-radius: 10px;
+    background-color: #4E47FF;
+    border: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+.input-section-btn:hover{
+    background-color: #303030;
+    height:65px;
+    width: 500px;
+    transition-duration: 0.5s;
+}
+.input-section-all-lable{
+    font-size: 18px;
+    font-weight: bold;
+}
+/* styling the last part */
+.website-name-section-title{
+    color: #4E47FF;
+font-size: 100px;
+font-weight: bold;
+text-align: center;
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+
+}
+.website-name-section-2{
+    text-align: center;
+   
+}
+.website-name-section-subtitle{
+    color: #8987A1;
+}
+.website-name-section-ul  li{
+    list-style: none;
+}
+.website-name-section-ul  li a{
+    text-decoration: none;
+     color: #8987A1;
+    
+}
+.website-name-section-ul{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+
+}
+.website-name-section{
+    height: 221px;
+width: 531px;
+margin-left: 500px;
+}
